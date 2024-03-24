@@ -17,7 +17,7 @@
 
 **Mirror**
 
-MacOS Ventura 13.5.2 22G91 with OC 0.9.4
+MacOS Ventura 13.6.5 22G621 with OC 0.9.8
 
 **BIOS**
 
@@ -37,9 +37,14 @@ CPU: Intel Xeon W-3245M CPU3.20 GHz
 
 **Current Progress**
 
+
+
 ***
 2024/03/24
 - Initial changes for ASUS Mainboard
+- Update intel wifi drivers from OpenIntelWireless/v2.3.0-alpha
+- Custom USB port for asus b660m-e
+- Update to MacOS Ventura 13.6.5 22G621 with OC 0.9.8
 
 **Thanks for**
 
