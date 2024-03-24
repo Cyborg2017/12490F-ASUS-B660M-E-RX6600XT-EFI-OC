@@ -46,6 +46,42 @@ CPU: Intel Xeon W-3245M CPU3.20 GHz
 - Custom USB port for asus b660m-e
 - Update to MacOS Ventura 13.6.5 22G621 with OC 0.9.8
 
+
+**WIP**
+- All AirDrop related services.(limited by Wi-Fi and Bluetooth)
+- After "sleep", can‘t wake up through USB devices.(only support the power button)
+- After "sleep", bluetooth will excessively occupy the CPU process.(temporary solution: https://github.com/odlp/bluesnooze)
+
+**Details**
+
+About Device:
+
+<img width="471" alt="image" src="https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/87a1579c-ef9a-4b4f-9d70-1f9dbc7134f9">
+
+WIFI(AX211):
+
+<img width="468" alt="image" src="https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/62fd2fc8-485c-4310-8b9d-7813c52b966c">
+
+Bluetooth(AX211):
+
+<img width="807" alt="image" src="https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/48e2b267-b223-41a4-b803-2933e665321f">
+
+Kernel:
+
+<img width="1561" alt="image" src="https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/a81f8dc7-c266-471d-bf95-144babedd7fe">
+
+USB Ports:
+
+<img width="885" alt="image" src="https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/070226e3-d2b9-43b7-884c-abb5cf5795aa">
+
+Geekbench6 Test(CPU):
+
+<img width="788" alt="image" src="https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/615bc08b-5276-45dc-a9df-22297ce3a46d">
+
+Geekbench6 Test(GPU):
+
+![image](https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/217a7a4d-8db7-4fe1-98f8-f5908217212f)
+
 **Thanks for**
 
 1.国光 (https://apple.sqlsec.com)
