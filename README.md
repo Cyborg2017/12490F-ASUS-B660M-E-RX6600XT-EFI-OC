@@ -56,7 +56,7 @@ CPU: Intel Xeon W-3245M CPU3.20 GHz
 
 About Device:
 
-<img width="471" alt="image" src="https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/87a1579c-ef9a-4b4f-9d70-1f9dbc7134f9">
+<img width="477" alt="image" src="https://github.com/Cyborg2017/12490F-ASUS-B660M-E-RX6600XT-EFI-OC/assets/29827082/18c12d20-5122-4a24-ae79-b7f19535bb20">
 
 WIFI(AX211):
 
